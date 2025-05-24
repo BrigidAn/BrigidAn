@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brigid</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brigidan" alt="brigidan" /></a> </p>
-
 - 📫 How to reach me **ochimerema@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
